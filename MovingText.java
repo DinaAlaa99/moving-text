@@ -2,6 +2,7 @@ import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/** Create an applet that displays string which user can move it using arrows */
 public class MovingText extends Applet {
 
   int x = 50;
